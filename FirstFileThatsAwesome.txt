@@ -1,0 +1,3 @@
+Welcome to my first text for git.
+
+Remember the ticket.
